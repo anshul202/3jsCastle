@@ -1,0 +1,1 @@
+never store enviroment variables in strings we do not need that
